@@ -10,7 +10,7 @@
 
 ## The URL of the deployed application
 
-[]()
+[https://jizhang80.github.io/bootcamp-jz-WorkDayScheduler/](https://jizhang80.github.io/bootcamp-jz-WorkDayScheduler/)
 
 ## Application Screenshot
 
